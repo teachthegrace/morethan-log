@@ -10,7 +10,7 @@ const CONFIG = {
     github: "teachthegrace",
     instagram: "",
   },
-  services: [
+  projects: [
     {
       name: `Naver Blog`,
       href: "https://blog.naver.com/lililililillillil",
