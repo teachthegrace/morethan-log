@@ -17,7 +17,7 @@ const CONFIG = {
     },
     {
       //add github blog link test
-      name: `GITHUB Blog`
+      name: `Github Blog`,
       href: "https://github.com/teachthegrace",
     },
   ],
